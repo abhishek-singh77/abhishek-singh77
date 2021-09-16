@@ -8,7 +8,7 @@
 </h2> 
 <hr>
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Abhishek-Singh " />
+    <img align="center" alt="visitors" src="![](https://komarev.com/ghpvc/?username=your-github-username&color=green)" />
 </p>
 <p align="center">
 <br>
