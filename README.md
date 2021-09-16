@@ -7,10 +7,6 @@
  </abc>
 </h2> 
 <hr>
-<p align="center">
-    ![](https://komarev.com/ghpvc/?username=abhishek-singh77&color=green)
-<p align="center">
-<br>
 <a href="https://www.instagram.com/abhi_7.7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/abhisheksingh772000/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:assomvanshi7@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
