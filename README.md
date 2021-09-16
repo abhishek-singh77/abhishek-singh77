@@ -8,8 +8,7 @@
 </h2> 
 <hr>
 <p align="center">
-    <img align="center" alt="visitors" src="![](https://komarev.com/ghpvc/?username=your-github-username&color=green)" />
-</p>
+    ![](https://komarev.com/ghpvc/?username=abhishek-singh77&color=green)
 <p align="center">
 <br>
 <a href="https://www.instagram.com/abhi_7.7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
