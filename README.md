@@ -6,12 +6,6 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-<p align="center">
-  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
-</p>
-<p>
-  <h4 align="center"><b>“Make it work, make it right, make it fast.” – Kent Beck</b></h4>
-</p>
 <hr>
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Abhishek-Singh " />
