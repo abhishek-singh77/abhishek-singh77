@@ -10,6 +10,8 @@
 <span><a href="https://www.instagram.com/abhi_7.7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></span>&nbsp;
 <span><a href="https://www.linkedin.com/in/abhisheksingh772000/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></span>&nbsp;
 <a href="mailto:assomvanshi7@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<span><a href="https://twitter.com/Abhi00929195/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a></span>&nbsp;
+
 </p>
 
 <br>
