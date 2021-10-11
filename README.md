@@ -1,7 +1,7 @@
 <h2 align="center">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Abhishek Singh, Frontend Web Developer :computer:<br>
+  <br> I'm Abhishek Singh, Fullstack Web Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -16,12 +16,12 @@
 
 <br>
 
-### I am a Frontend Developer
-- 🔭 I’m currently transitioning to backend development  :grin:
-- 🌱 I’m currently practicing DSA and contributing in open source. 👍
+### I am a Fullstack Developer
+- 🔭 I’m currently transitioning to desktop development using electron :grin:
+- 🌱 I’m also practicing DSA and contributing to open source. 👍
 - 👯 I’m looking to create and design new products :wink:
-- 🥅 Goals: Contribute to Open Source projects and gain dev experience 🐥:
-- 💬 Ask me anything about C++ and Web Technologies 😸:
+- 🥅 Goals: Contribute to Open Source projects and join a great IT firm 🐥:
+- 💬 Ask me anything about C++ and Web Technologies (React Redux Next Express...) 😸:
 - ⚡ Fun fact: I love connecting with different people 😄:
 
 <br>
